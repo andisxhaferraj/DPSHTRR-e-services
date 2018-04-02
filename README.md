@@ -1,8 +1,11 @@
 The purpose of this software is divided into 2 main parts:
 1)	To solve problems the majority of Tirana citizens have by providing automated services from DPSHTRR.
 2)	To help the DPSHTRR staff in:
+
 a)	Processing services
+
 b)	Management Part
+
 c)	Communication between sectors.
 
 DPSHTRR e-services is a software which aims to make it easier and less time consuming specific services that “Drejtoria e Përgjithshme e Shërbimit të Transportit Rrugor” offers to Tirana citizens. Everybody that has an account in this web application will have the opportunity to choose among several services. After choosing the desired service, a list of required documents will be shown. The client has to scan these documents and submit them in our web application. However, for the application to be complete, the client has to pay a certain fee. This fee can be paid either by bank or by credit Card. Now, the client has to wait until the employees on the other side check their documents. If the documents are accurate, then the status of the application will appear as “READY” and the client may go at the “DPSHTRR” office to pick up his service. Otherwise, the client will be informed about the missing/not accurate documents. 
